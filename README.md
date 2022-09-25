@@ -7,7 +7,7 @@
 * [Author](#author)
 
 ## Blog App
-> The Blog app is a classic example of a blog website.
+> The Blog app is a classic example of a blog website. Using [rails guide](https://guides.rubyonrails.org/getting_started.html#what-is-rails-questionmark)
 
 ## Built With
 
@@ -56,7 +56,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse
+- Rails Guide [visit](https://guides.rubyonrails.org/getting_started.html#what-is-rails-questionmark)
+- Microverse
 
 ## 📝 License
 
